@@ -1,0 +1,240 @@
+{"ent_a":"Gether","rel_ab":"father","ent_b":"Aram, son of Shem","rel_bc":"father","ent_c":"Shem","rel_ac":"grandfather"}
+{"ent_a":"Blacklegs (horse)","rel_ab":"father","ent_b":"Flying Childers","rel_bc":"father","ent_c":"Darley Arabian","rel_ac":"grandfather"}
+{"ent_a":"Telete","rel_ab":"father","ent_b":"Dionysus","rel_bc":"father","ent_c":"Zeus","rel_ac":"grandfather"}
+{"ent_a":"Carew St John-Mildmay","rel_ab":"father","ent_b":"Sir Henry St John-Mildmay, 3rd Baronet","rel_bc":"father","ent_c":"Sir Henry St John, 2nd Baronet","rel_ac":"grandfather"}
+{"ent_a":"Charles Canning, 1st Earl Canning","rel_ab":"father","ent_b":"George Canning","rel_bc":"father","ent_c":"George Canning (writer)","rel_ac":"grandfather"}
+{"ent_a":"Aggressor (horse)","rel_ab":"father","ent_b":"Combat (horse)","rel_bc":"father","ent_c":"Big Game (horse)","rel_ac":"grandfather"}
+{"ent_a":"Dayanidhi Azhagiri","rel_ab":"father","ent_b":"M. K. Alagiri","rel_bc":"father","ent_c":"M. Karunanidhi","rel_ac":"grandfather"}
+{"ent_a":"Maredudd ap Rhys Gryg","rel_ab":"father","ent_b":"Rhys Gryg","rel_bc":"father","ent_c":"Rhys ap Gruffydd","rel_ac":"grandfather"}
+{"ent_a":"Charles Eversfield","rel_ab":"father","ent_b":"Nicholas Eversfield (MP for Bramber)","rel_bc":"father","ent_c":"John Eversfield","rel_ac":"grandfather"}
+{"ent_a":"Tinners Way","rel_ab":"father","ent_b":"Secretariat (horse)","rel_bc":"father","ent_c":"Bold Ruler","rel_ac":"grandfather"}
+{"ent_a":"Gallant Bloom","rel_ab":"father","ent_b":"Gallant Man","rel_bc":"father","ent_c":"Migoli","rel_ac":"grandfather"}
+{"ent_a":"Charles III, Duke of Elbeuf","rel_ab":"father","ent_b":"Charles II, Duke of Elbeuf","rel_bc":"father","ent_c":"Charles I, Duke of Elbeuf","rel_ac":"grandfather"}
+{"ent_a":"Iamus","rel_ab":"father","ent_b":"Apollo","rel_bc":"father","ent_c":"Zeus","rel_ac":"grandfather"}
+{"ent_a":"Henry Loomis","rel_ab":"father","ent_b":"Alfred Lee Loomis","rel_bc":"father","ent_c":"Henry Patterson Loomis","rel_ac":"grandfather"}
+{"ent_a":"Frederica Mildmay, Countess of M\u00e9rtola","rel_ab":"father","ent_b":"Meinhardt Schomberg, 3rd Duke of Schomberg","rel_bc":"father","ent_c":"Frederick Schomberg, 1st Duke of Schomberg","rel_ac":"grandfather"}
+{"ent_a":"Ilus (son of Dardanus)","rel_ab":"father","ent_b":"Dardanus (son of Zeus)","rel_bc":"father","ent_c":"Zeus","rel_ac":"grandfather"}
+{"ent_a":"Karl Friedrich, Duke of Saxe-Meiningen","rel_ab":"father","ent_b":"Ernst Ludwig I, Duke of Saxe-Meiningen","rel_bc":"father","ent_c":"Bernhard I, Duke of Saxe-Meiningen","rel_ac":"grandfather"}
+{"ent_a":"Frederick II, Grand Duke of Baden","rel_ab":"father","ent_b":"Frederick I, Grand Duke of Baden","rel_bc":"father","ent_c":"Leopold, Grand Duke of Baden","rel_ac":"grandfather"}
+{"ent_a":"Suleiman Frangieh (politician, born 1965)","rel_ab":"father","ent_b":"Tony Frangieh","rel_bc":"father","ent_c":"Suleiman Frangieh","rel_ac":"grandfather"}
+{"ent_a":"Barabimalabanna Voravan","rel_ab":"father","ent_b":"Narathip Praphanphong","rel_bc":"father","ent_c":"Mongkut","rel_ac":"grandfather"}
+{"ent_a":"Walter Biggar Blaikie","rel_ab":"father","ent_b":"William Garden Blaikie","rel_bc":"father","ent_c":"James Blaikie","rel_ac":"grandfather"}
+{"ent_a":"Sebastian Duterte","rel_ab":"father","ent_b":"Rodrigo Duterte","rel_bc":"father","ent_c":"Vicente Duterte","rel_ac":"grandfather"}
+{"ent_a":"Ii Naotora","rel_ab":"father","ent_b":"Ii Naomori","rel_bc":"father","ent_c":"Ii Naomune","rel_ac":"grandfather"}
+{"ent_a":"A Gleam","rel_ab":"father","ent_b":"Blenheim (horse)","rel_bc":"father","ent_c":"Blandford (horse)","rel_ac":"grandfather"}
+{"ent_a":"M\u00e1el Muire, Earl of Atholl","rel_ab":"father","ent_b":"Duncan I of Scotland","rel_bc":"father","ent_c":"Cr\u00edn\u00e1n of Dunkeld","rel_ac":"grandfather"}
+{"ent_a":"Sultan bin Abdulaziz","rel_ab":"father","ent_b":"Ibn Saud","rel_bc":"father","ent_c":"Abdul Rahman bin Faisal Al Saud (1850\u20131928)","rel_ac":"grandfather"}
+{"ent_a":"Henri, Prince of Cond\u00e9 (1588\u20131646)","rel_ab":"father","ent_b":"Henri, Prince of Cond\u00e9 (1552\u20131588)","rel_bc":"father","ent_c":"Louis, Prince of Cond\u00e9 (1530\u20131569)","rel_ac":"grandfather"}
+{"ent_a":"Albert III, Duke of Bavaria","rel_ab":"father","ent_b":"Ernest, Duke of Bavaria","rel_bc":"father","ent_c":"John II, Duke of Bavaria","rel_ac":"grandfather"}
+{"ent_a":"Hugh of Sleat","rel_ab":"father","ent_b":"Alexander of Islay, Earl of Ross","rel_bc":"father","ent_c":"Donald of Islay, Lord of the Isles","rel_ac":"grandfather"}
+{"ent_a":"Archduke Leopold of Austria, Prince of Tuscany","rel_ab":"father","ent_b":"Archduke Leopold Salvator of Austria","rel_bc":"father","ent_c":"Archduke Karl Salvator of Austria","rel_ac":"grandfather"}
+{"ent_a":"Napol\u00e9on Charles Bonaparte","rel_ab":"mother","ent_b":"Hortense de Beauharnais","rel_bc":"mother","ent_c":"Empress Jos\u00e9phine","rel_ac":"grandmother"}
+{"ent_a":"John FitzAlan, 1st Baron Arundel","rel_ab":"mother","ent_b":"Eleanor of Lancaster","rel_bc":"mother","ent_c":"Maud Chaworth","rel_ac":"grandmother"}
+{"ent_a":"John of Lusignan","rel_ab":"mother","ent_b":"Alice of Ibelin","rel_bc":"mother","ent_c":"Isabella of Ibelin (died 1315)","rel_ac":"grandmother"}
+{"ent_a":"Alexander Gordon, 3rd Earl of Huntly","rel_ab":"mother","ent_b":"Annabella of Scotland","rel_bc":"mother","ent_c":"Joan Beaufort, Queen of Scots","rel_ac":"grandmother"}
+{"ent_a":"Bertha of Rheinfelden","rel_ab":"mother","ent_b":"Adelaide of Savoy, Duchess of Swabia","rel_bc":"mother","ent_c":"Adelaide of Susa","rel_ac":"grandmother"}
+{"ent_a":"Queen Elizabeth The Queen Mother","rel_ab":"mother","ent_b":"Cecilia Bowes-Lyon, Countess of Strathmore and Kinghorne","rel_bc":"mother","ent_c":"Louisa Cavendish-Bentinck","rel_ac":"grandmother"}
+{"ent_a":"Roger Mortimer, 4th Earl of March","rel_ab":"mother","ent_b":"Philippa, 5th Countess of Ulster","rel_bc":"mother","ent_c":"Elizabeth de Burgh, 4th Countess of Ulster","rel_ac":"grandmother"}
+{"ent_a":"Ordulf, Duke of Saxony","rel_ab":"mother","ent_b":"Eilika of Schweinfurt","rel_bc":"mother","ent_c":"Gerberga of Gleiberg","rel_ac":"grandmother"}
+{"ent_a":"Isabella of Navarre, Viscountess of Rohan","rel_ab":"mother","ent_b":"Catherine of Navarre","rel_bc":"mother","ent_c":"Magdalena of Valois","rel_ac":"grandmother"}
+{"ent_a":"Philip III of Spain","rel_ab":"mother","ent_b":"Anna of Austria, Queen of Spain","rel_bc":"mother","ent_c":"Maria of Austria, Holy Roman Empress","rel_ac":"grandmother"}
+{"ent_a":"Anne Stuart (born 1637)","rel_ab":"mother","ent_b":"Henrietta Maria","rel_bc":"mother","ent_c":"Marie de' Medici","rel_ac":"grandmother"}
+{"ent_a":"Sphinx","rel_ab":"mother","ent_b":"Echidna (mythology)","rel_bc":"mother","ent_c":"Ceto","rel_ac":"grandmother"}
+{"ent_a":"Gaius Memmius (consul 34 BC)","rel_ab":"mother","ent_b":"Fausta Cornelia","rel_bc":"mother","ent_c":"Caecilia Metella (daughter of Delmaticus)","rel_ac":"grandmother"}
+{"ent_a":"Sher Singh","rel_ab":"mother","ent_b":"Mehtab Kaur","rel_bc":"mother","ent_c":"Sada Kaur","rel_ac":"grandmother"}
+{"ent_a":"Cymatolege (mythology)","rel_ab":"mother","ent_b":"Doris (Oceanid)","rel_bc":"mother","ent_c":"Tethys (mythology)","rel_ac":"grandmother"}
+{"ent_a":"Thomas Clifford, 8th Baron Clifford","rel_ab":"mother","ent_b":"Lady Elizabeth Percy","rel_bc":"mother","ent_c":"Elizabeth Mortimer","rel_ac":"grandmother"}
+{"ent_a":"Lise Lindb\u00e6k","rel_ab":"mother","ent_b":"Sofie Aubert Lindb\u00e6k","rel_bc":"mother","ent_c":"Elise Aubert","rel_ac":"grandmother"}
+{"ent_a":"Demeter","rel_ab":"mother","ent_b":"Rhea (mythology)","rel_bc":"mother","ent_c":"Gaia","rel_ac":"grandmother"}
+{"ent_a":"Pauline Ducruet","rel_ab":"mother","ent_b":"Princess St\u00e9phanie of Monaco","rel_bc":"mother","ent_c":"Grace Kelly","rel_ac":"grandmother"}
+{"ent_a":"John Eisenhower","rel_ab":"mother","ent_b":"Mamie Eisenhower","rel_bc":"mother","ent_c":"Elivera M. Doud","rel_ac":"grandmother"}
+{"ent_a":"Ferdinand I of Bulgaria","rel_ab":"mother","ent_b":"Princess Cl\u00e9mentine of Orl\u00e9ans","rel_bc":"mother","ent_c":"Maria Amalia of Naples and Sicily","rel_ac":"grandmother"}
+{"ent_a":"Lord Alexander Russell","rel_ab":"mother","ent_b":"Georgiana Russell, Duchess of Bedford","rel_bc":"mother","ent_c":"Jane Gordon, Duchess of Gordon","rel_ac":"grandmother"}
+{"ent_a":"Lacedaemon (mythology)","rel_ab":"mother","ent_b":"Taygete","rel_bc":"mother","ent_c":"Pleione (mythology)","rel_ac":"grandmother"}
+{"ent_a":"John Sigismund Z\u00e1polya","rel_ab":"mother","ent_b":"Isabella Jagiellon","rel_bc":"mother","ent_c":"Bona Sforza","rel_ac":"grandmother"}
+{"ent_a":"Prince Axel of Denmark","rel_ab":"mother","ent_b":"Princess Marie of Orl\u00e9ans (1865\u20131909)","rel_bc":"mother","ent_c":"Princess Fran\u00e7oise of Orl\u00e9ans (1844\u20131925)","rel_ac":"grandmother"}
+{"ent_a":"Charles Delevingne","rel_ab":"mother","ent_b":"Angela Delevingne","rel_bc":"mother","ent_c":"Margery Greenwood, Viscountess Greenwood","rel_ac":"grandmother"}
+{"ent_a":"Magdalena of Valois","rel_ab":"mother","ent_b":"Marie of Anjou","rel_bc":"mother","ent_c":"Yolande of Aragon","rel_ac":"grandmother"}
+{"ent_a":"William, Duke of Brunswick","rel_ab":"mother","ent_b":"Princess Marie of Baden (1782\u20131808)","rel_bc":"mother","ent_c":"Princess Amalie of Hesse-Darmstadt","rel_ac":"grandmother"}
+{"ent_a":"John Palaiologos (son of Andronikos II)","rel_ab":"mother","ent_b":"Irene of Montferrat","rel_bc":"mother","ent_c":"Beatrice of Castile, Marchioness of Montferrat","rel_ac":"grandmother"}
+{"ent_a":"Frederick William, Grand Duke of Mecklenburg-Strelitz","rel_ab":"mother","ent_b":"Princess Marie of Hesse-Kassel","rel_bc":"mother","ent_c":"Princess Caroline of Nassau-Usingen","rel_ac":"grandmother"}
+{"ent_a":"Hind bint Utbah","rel_ab":"sibling","ent_b":"Abu Hudhayfa ibn Utba","rel_bc":"sibling","ent_c":"Walid ibn Utbah","rel_ac":"sibling"}
+{"ent_a":"Princess \u00c9lisabeth Charlotte of Lorraine","rel_ab":"sibling","ent_b":"Francis I, Holy Roman Emperor","rel_bc":"sibling","ent_c":"Prince Charles Alexander of Lorraine","rel_ac":"sibling"}
+{"ent_a":"Jennifer Wylie","rel_ab":"sibling","ent_b":"Tracy Fleury","rel_bc":"sibling","ent_c":"Tanner Horgan","rel_ac":"sibling"}
+{"ent_a":"Ferdinand IV of Castile","rel_ab":"sibling","ent_b":"Peter of Castile, Lord of Cameros","rel_bc":"sibling","ent_c":"Isabella of Castile, Queen of Aragon","rel_ac":"sibling"}
+{"ent_a":"Iset (daughter of Amenhotep III)","rel_ab":"sibling","ent_b":"Sitamun","rel_bc":"sibling","ent_c":"The Younger Lady","rel_ac":"sibling"}
+{"ent_a":"Thomas of Lancaster, Duke of Clarence","rel_ab":"sibling","ent_b":"Blanche of England","rel_bc":"sibling","ent_c":"Philippa of England","rel_ac":"sibling"}
+{"ent_a":"Lisa Erlandsdotter","rel_ab":"sibling","ent_b":"Katarina Erlandsdotter","rel_bc":"sibling","ent_c":"Sven Erlandsson","rel_ac":"sibling"}
+{"ent_a":"Bernice Pauahi Bishop","rel_ab":"sibling","ent_b":"Lili\u02bbuokalani","rel_bc":"sibling","ent_c":"Anna Ka\u02bbiulani","rel_ac":"sibling"}
+{"ent_a":"Carlo Montano","rel_ab":"sibling","ent_b":"Tommaso Montano","rel_bc":"sibling","ent_c":"Mario Tullio Montano","rel_ac":"sibling"}
+{"ent_a":"Bohemond V of Antioch","rel_ab":"sibling","ent_b":"Maria of Antioch (pretender)","rel_bc":"sibling","ent_c":"Henry of Antioch","rel_ac":"sibling"}
+{"ent_a":"Daniela Herz-Schnoekel","rel_ab":"sibling","ent_b":"Michael Herz (businessman)","rel_bc":"sibling","ent_c":"G\u00fcnter Herz","rel_ac":"sibling"}
+{"ent_a":"Grand Duke Sergei Alexandrovich of Russia","rel_ab":"sibling","ent_b":"Grand Duchess Alexandra Alexandrovna of Russia","rel_bc":"sibling","ent_c":"Grand Duchess Maria Alexandrovna of Russia","rel_ac":"sibling"}
+{"ent_a":"George B. Bacon","rel_ab":"sibling","ent_b":"Alice Mabel Bacon","rel_bc":"sibling","ent_c":"Edward Woolsey Bacon","rel_ac":"sibling"}
+{"ent_a":"Zu Ji","rel_ab":"sibling","ent_b":"Zu Geng of Shang","rel_bc":"sibling","ent_c":"Zu Jia","rel_ac":"sibling"}
+{"ent_a":"Tsarevich Dmitry Alexeyevich of Russia","rel_ab":"sibling","ent_b":"Peter the Great","rel_bc":"sibling","ent_c":"Natalya Alexeyevna of Russia","rel_ac":"sibling"}
+{"ent_a":"Matteo di Cione","rel_ab":"sibling","ent_b":"Nardo di Cione","rel_bc":"sibling","ent_c":"Jacopo di Cione","rel_ac":"sibling"}
+{"ent_a":"Henry FitzMiles","rel_ab":"sibling","ent_b":"Walter of Hereford","rel_bc":"sibling","ent_c":"William of Hereford","rel_ac":"sibling"}
+{"ent_a":"Thomas Trevor (1586\u20131656)","rel_ab":"sibling","ent_b":"John Trevor (1563\u20131630)","rel_bc":"sibling","ent_c":"Richard Trevor (politician)","rel_ac":"sibling"}
+{"ent_a":"O'Kelly Isley Jr.","rel_ab":"sibling","ent_b":"Ernie Isley","rel_bc":"sibling","ent_c":"Ronald Isley","rel_ac":"sibling"}
+{"ent_a":"Margaret of Brunswick-L\u00fcneburg","rel_ab":"sibling","ent_b":"Dorothea of Brunswick-L\u00fcneburg","rel_bc":"sibling","ent_c":"Sophie of Brunswick-L\u00fcneburg","rel_ac":"sibling"}
+{"ent_a":"Kusumoto Ine","rel_ab":"sibling","ent_b":"Heinrich von Siebold","rel_bc":"sibling","ent_c":"Alexander von Siebold","rel_ac":"sibling"}
+{"ent_a":"Duke Johann Wilhelm of Saxe-Altenburg","rel_ab":"sibling","ent_b":"Dorothea Sophia, Abbess of Quedlinburg","rel_bc":"sibling","ent_c":"Dorothea of Saxe-Altenburg","rel_ac":"sibling"}
+{"ent_a":"Theodora Kantakouzene (wife of Alexios IV of Trebizond)","rel_ab":"sibling","ent_b":"George Palaiologos Kantakouzenos","rel_bc":"sibling","ent_c":"Andronikos Palaiologos Kantakouzenos","rel_ac":"sibling"}
+{"ent_a":"Drusus Julius Caesar","rel_ab":"sibling","ent_b":"Gaius Asinius Pollio (consul 23)","rel_bc":"sibling","ent_c":"Marcus Asinius Agrippa","rel_ac":"sibling"}
+{"ent_a":"Sextus Aelius Catus","rel_ab":"sibling","ent_b":"Lucius Seius Tubero","rel_bc":"sibling","ent_c":"Sejanus","rel_ac":"sibling"}
+{"ent_a":"Harry Hays Morgan Jr.","rel_ab":"sibling","ent_b":"Gloria Morgan Vanderbilt","rel_bc":"sibling","ent_c":"Thelma Furness, Viscountess Furness","rel_ac":"sibling"}
+{"ent_a":"Maeda Toshitsune","rel_ab":"sibling","ent_b":"Maeda Toshinaga","rel_bc":"sibling","ent_c":"Maeda Toshimasa (1578)","rel_ac":"sibling"}
+{"ent_a":"Tezozomoctli Acolnahuacatl","rel_ab":"sibling","ent_b":"Moctezuma II","rel_bc":"sibling","ent_c":"Cuitl\u00e1huac","rel_ac":"sibling"}
+{"ent_a":"Archduke Ferdinand Karl Joseph of Austria-Este","rel_ab":"sibling","ent_b":"Maria Ludovika of Austria-Este","rel_bc":"sibling","ent_c":"Maria Theresa of Austria-Este, Queen of Sardinia","rel_ac":"sibling"}
+{"ent_a":"Marinus II of Gaeta","rel_ab":"sibling","ent_b":"Gregory of Gaeta","rel_bc":"sibling","ent_c":"John II of Gaeta","rel_ac":"sibling"}
+{"ent_a":"Noelle Quinn","rel_ab":"competition class","ent_b":"Women's basketball","rel_bc":"competition class","ent_c":"Female gender","rel_ac":"competition class"}
+{"ent_a":"2015 All-Ireland Senior Camogie Championship","rel_ab":"competition class","ent_b":"Women's sports","rel_bc":"competition class","ent_c":"Female gender","rel_ac":"competition class"}
+{"ent_a":"2008 Chicago Sky season","rel_ab":"competition class","ent_b":"Women's sports","rel_bc":"competition class","ent_c":"Female gender","rel_ac":"competition class"}
+{"ent_a":"Albany Great Danes women's basketball","rel_ab":"competition class","ent_b":"Women's basketball","rel_bc":"competition class","ent_c":"Female gender","rel_ac":"competition class"}
+{"ent_a":"Swimming at the 2011 Pan American Games \u2013 Women's 4 \u00d7 100 metre freestyle relay","rel_ab":"competition class","ent_b":"Women's sports","rel_bc":"competition class","ent_c":"Female gender","rel_ac":"competition class"}
+{"ent_a":"2011\u201312 ISU Speed Skating World Cup \u2013 Women's 1000 metres","rel_ab":"competition class","ent_b":"Women's sports","rel_bc":"competition class","ent_c":"Female gender","rel_ac":"competition class"}
+{"ent_a":"1990 Breyers Tennis Classic","rel_ab":"competition class","ent_b":"Women's sports","rel_bc":"competition class","ent_c":"Female gender","rel_ac":"competition class"}
+{"ent_a":"Midwest Independent Conference","rel_ab":"competition class","ent_b":"Women's sports","rel_bc":"competition class","ent_c":"Female gender","rel_ac":"competition class"}
+{"ent_a":"Lorraine Taylor","rel_ab":"competition class","ent_b":"Women's sports","rel_bc":"competition class","ent_c":"Female gender","rel_ac":"competition class"}
+{"ent_a":"Liz Watson (netball)","rel_ab":"competition class","ent_b":"Women's sports","rel_bc":"competition class","ent_c":"Female gender","rel_ac":"competition class"}
+{"ent_a":"2016 IAAF World Indoor Championships \u2013 Women's shot put","rel_ab":"competition class","ent_b":"Women's sports","rel_bc":"competition class","ent_c":"Female gender","rel_ac":"competition class"}
+{"ent_a":"2017 Fed Cup World Group Play-offs","rel_ab":"competition class","ent_b":"Women's sports","rel_bc":"competition class","ent_c":"Female gender","rel_ac":"competition class"}
+{"ent_a":"2016 Colonial Athletic Association women's soccer season","rel_ab":"competition class","ent_b":"Women's sports","rel_bc":"competition class","ent_c":"Female gender","rel_ac":"competition class"}
+{"ent_a":"2017\u201318 Liga MX Femenil season","rel_ab":"competition class","ent_b":"Women's association football","rel_bc":"competition class","ent_c":"Open (sport)","rel_ac":"competition class"}
+{"ent_a":"2013 Seattle Reign FC season","rel_ab":"competition class","ent_b":"Women's sports","rel_bc":"competition class","ent_c":"Female gender","rel_ac":"competition class"}
+{"ent_a":"2012 FIG Rhythmic Gymnastics World Cup series","rel_ab":"competition class","ent_b":"Women's sports","rel_bc":"competition class","ent_c":"Female gender","rel_ac":"competition class"}
+{"ent_a":"\u017dKK Celje","rel_ab":"competition class","ent_b":"Women's basketball","rel_bc":"competition class","ent_c":"Female gender","rel_ac":"competition class"}
+{"ent_a":"Athletics at the 2018 Summer Youth Olympics \u2013 Girls' 400 metre hurdles","rel_ab":"competition class","ent_b":"Women's sports","rel_bc":"competition class","ent_c":"Female gender","rel_ac":"competition class"}
+{"ent_a":"2009 Perth Glory FC (W-League) season","rel_ab":"competition class","ent_b":"Women's association football","rel_bc":"competition class","ent_c":"Open (sport)","rel_ac":"competition class"}
+{"ent_a":"FC Utrecht (women)","rel_ab":"competition class","ent_b":"Women's association football","rel_bc":"competition class","ent_c":"Open (sport)","rel_ac":"competition class"}
+{"ent_a":"Venice Ladies Open","rel_ab":"competition class","ent_b":"Women's sports","rel_bc":"competition class","ent_c":"Female gender","rel_ac":"competition class"}
+{"ent_a":"Pamela McGee","rel_ab":"competition class","ent_b":"Women's basketball","rel_bc":"competition class","ent_c":"Female gender","rel_ac":"competition class"}
+{"ent_a":"2018 UEFA Women's Under-19 Championship qualification","rel_ab":"competition class","ent_b":"Women's association football","rel_bc":"competition class","ent_c":"Open (sport)","rel_ac":"competition class"}
+{"ent_a":"\u00c9rika de Souza","rel_ab":"competition class","ent_b":"Women's basketball","rel_bc":"competition class","ent_c":"Female gender","rel_ac":"competition class"}
+{"ent_a":"2019 Virginia Cavaliers women's soccer team","rel_ab":"competition class","ent_b":"Women's association football","rel_bc":"competition class","ent_c":"Open (sport)","rel_ac":"competition class"}
+{"ent_a":"2016 Ohio Valley Conference Women's Soccer Tournament","rel_ab":"competition class","ent_b":"Women's association football","rel_bc":"competition class","ent_c":"Open (sport)","rel_ac":"competition class"}
+{"ent_a":"2003 UCI Track Cycling World Championships \u2013 Women's scratch","rel_ab":"competition class","ent_b":"Women's sports","rel_bc":"competition class","ent_c":"Female gender","rel_ac":"competition class"}
+{"ent_a":"2019\u201320 South Florida Bulls women's basketball team","rel_ab":"competition class","ent_b":"Women's basketball","rel_bc":"competition class","ent_c":"Female gender","rel_ac":"competition class"}
+{"ent_a":"WBC Dunav Ruse","rel_ab":"competition class","ent_b":"Women's basketball","rel_bc":"competition class","ent_c":"Female gender","rel_ac":"competition class"}
+{"ent_a":"Gambia women's national football team","rel_ab":"competition class","ent_b":"Women's association football","rel_bc":"competition class","ent_c":"Open (sport)","rel_ac":"competition class"}
+{"ent_a":"Jamie Bestwick","rel_ab":"place of birth","ent_b":"Nottingham","rel_bc":"country","ent_c":"United Kingdom","rel_ac":"country of birth"}
+{"ent_a":"Maka Unufe","rel_ab":"place of birth","ent_b":"Provo, Utah","rel_bc":"country","ent_c":"United States","rel_ac":"country of birth"}
+{"ent_a":"Llewellyn Thomas (English cricketer)","rel_ab":"place of birth","ent_b":"Clifton, Bristol","rel_bc":"country","ent_c":"United Kingdom","rel_ac":"country of birth"}
+{"ent_a":"Vasil Dragolov","rel_ab":"place of birth","ent_b":"Plovdiv Province","rel_bc":"country","ent_c":"Bulgaria","rel_ac":"country of birth"}
+{"ent_a":"Brian Dunsworth","rel_ab":"place of birth","ent_b":"Edmonton","rel_bc":"country","ent_c":"Canada","rel_ac":"country of birth"}
+{"ent_a":"John Petrucci","rel_ab":"place of birth","ent_b":"Long Island","rel_bc":"country","ent_c":"United States","rel_ac":"country of birth"}
+{"ent_a":"Jim Archibald","rel_ab":"place of birth","ent_b":"Craik, Saskatchewan","rel_bc":"country","ent_c":"Canada","rel_ac":"country of birth"}
+{"ent_a":"Mangkunegara II","rel_ab":"place of birth","ent_b":"Surakarta","rel_bc":"country","ent_c":"Indonesia","rel_ac":"country of birth"}
+{"ent_a":"Victor Halperin","rel_ab":"place of birth","ent_b":"Chicago","rel_bc":"country","ent_c":"United States","rel_ac":"country of birth"}
+{"ent_a":"Marlon Ram\u00edrez","rel_ab":"place of birth","ent_b":"Balfate","rel_bc":"country","ent_c":"Honduras","rel_ac":"country of birth"}
+{"ent_a":"Leszli K\u00e1lli","rel_ab":"place of birth","ent_b":"Colombia","rel_bc":"country","ent_c":"Colombia","rel_ac":"country of birth"}
+{"ent_a":"Edmund Venables","rel_ab":"place of birth","ent_b":"London","rel_bc":"country","ent_c":"Roman Empire","rel_ac":"country of birth"}
+{"ent_a":"Alexandra Andresen","rel_ab":"place of birth","ent_b":"Oslo","rel_bc":"country","ent_c":"Norway","rel_ac":"country of birth"}
+{"ent_a":"Billy Ayre","rel_ab":"place of birth","ent_b":"Crookhill","rel_bc":"country","ent_c":"United Kingdom","rel_ac":"country of birth"}
+{"ent_a":"Frederik (singer)","rel_ab":"place of birth","ent_b":"Helsinki","rel_bc":"country","ent_c":"Finland","rel_ac":"country of birth"}
+{"ent_a":"Hawley Harvey Crippen","rel_ab":"place of birth","ent_b":"Coldwater, Michigan","rel_bc":"country","ent_c":"United States","rel_ac":"country of birth"}
+{"ent_a":"Minerva Sanders","rel_ab":"place of birth","ent_b":"Marblehead, Massachusetts","rel_bc":"country","ent_c":"United States","rel_ac":"country of birth"}
+{"ent_a":"Charles de La Baume Le Blanc","rel_ab":"place of birth","ent_b":"Paris","rel_bc":"country","ent_c":"France","rel_ac":"country of birth"}
+{"ent_a":"Bunny Austin","rel_ab":"place of birth","ent_b":"London","rel_bc":"country","ent_c":"Roman Empire","rel_ac":"country of birth"}
+{"ent_a":"Jean-Marie Guastavino","rel_ab":"place of birth","ent_b":"Algiers","rel_bc":"country","ent_c":"Algeria","rel_ac":"country of birth"}
+{"ent_a":"Ruair\u00ed Brugha","rel_ab":"place of birth","ent_b":"Dublin","rel_bc":"country","ent_c":"Republic of Ireland","rel_ac":"country of birth"}
+{"ent_a":"Paul Friedhoff","rel_ab":"place of birth","ent_b":"L\u00f6ningen","rel_bc":"country","ent_c":"Germany","rel_ac":"country of birth"}
+{"ent_a":"Helmer Pedersen","rel_ab":"place of birth","ent_b":"Copenhagen","rel_bc":"country","ent_c":"Denmark","rel_ac":"country of birth"}
+{"ent_a":"Alexandre Sambat","rel_ab":"place of birth","ent_b":"Makokou","rel_bc":"country","ent_c":"Gabon","rel_ac":"country of birth"}
+{"ent_a":"James French Patton","rel_ab":"place of birth","ent_b":"Richmond, Virginia","rel_bc":"country","ent_c":"United States","rel_ac":"country of birth"}
+{"ent_a":"Iram Hassan Bajwa","rel_ab":"place of birth","ent_b":"Lahore","rel_bc":"country","ent_c":"Pakistan","rel_ac":"country of birth"}
+{"ent_a":"David S. Walker","rel_ab":"place of birth","ent_b":"Kentucky","rel_bc":"country","ent_c":"United States","rel_ac":"country of birth"}
+{"ent_a":"Laura Dupuy Lasserre","rel_ab":"place of birth","ent_b":"Montevideo","rel_bc":"country","ent_c":"Uruguay","rel_ac":"country of birth"}
+{"ent_a":"Brandi Brandt","rel_ab":"place of birth","ent_b":"Santa Clara, California","rel_bc":"country","ent_c":"United States","rel_ac":"country of birth"}
+{"ent_a":"Jimmy Auby","rel_ab":"place of birth","ent_b":"Johannesburg","rel_bc":"country","ent_c":"South Africa","rel_ac":"country of birth"}
+{"ent_a":"Andrew Clinch","rel_ab":"place of burial","ent_b":"Goldenbridge Cemetery","rel_bc":"country","ent_c":"Republic of Ireland","rel_ac":"country of burial"}
+{"ent_a":"Winston L. Prouty","rel_ab":"place of burial","ent_b":"Vermont","rel_bc":"country","ent_c":"United States","rel_ac":"country of burial"}
+{"ent_a":"Edward H. Forney","rel_ab":"place of burial","ent_b":"Arlington National Cemetery","rel_bc":"country","ent_c":"United States","rel_ac":"country of burial"}
+{"ent_a":"Jean Racine","rel_ab":"place of burial","ent_b":"Saint-\u00c9tienne-du-Mont","rel_bc":"country","ent_c":"France","rel_ac":"country of burial"}
+{"ent_a":"Marie Pasteur","rel_ab":"place of burial","ent_b":"Pasteur Institute","rel_bc":"country","ent_c":"France","rel_ac":"country of burial"}
+{"ent_a":"Franciszek Macharski","rel_ab":"place of burial","ent_b":"Wawel Cathedral","rel_bc":"country","ent_c":"Poland","rel_ac":"country of burial"}
+{"ent_a":"Paddy McDonald","rel_ab":"place of burial","ent_b":"Wodonga","rel_bc":"country","ent_c":"Australia","rel_ac":"country of burial"}
+{"ent_a":"Jean Baptiste Alexandre Strolz","rel_ab":"place of burial","ent_b":"Montparnasse Cemetery","rel_bc":"country","ent_c":"France","rel_ac":"country of burial"}
+{"ent_a":"Parker Moloney","rel_ab":"place of burial","ent_b":"Melbourne General Cemetery","rel_bc":"country","ent_c":"Australia","rel_ac":"country of burial"}
+{"ent_a":"Larry Drake","rel_ab":"place of burial","ent_b":"Hollywood Forever Cemetery","rel_bc":"country","ent_c":"United States","rel_ac":"country of burial"}
+{"ent_a":"Gilbert du Motier, Marquis de Lafayette","rel_ab":"place of burial","ent_b":"Picpus Cemetery","rel_bc":"country","ent_c":"France","rel_ac":"country of burial"}
+{"ent_a":"Oskar Werner","rel_ab":"place of burial","ent_b":"Liechtenstein","rel_bc":"country","ent_c":"Liechtenstein","rel_ac":"country of burial"}
+{"ent_a":"Hasan Sultan","rel_ab":"place of burial","ent_b":"Shaki District","rel_bc":"country","ent_c":"Azerbaijan","rel_ac":"country of burial"}
+{"ent_a":"Ilmar Sikem\u00e4e","rel_ab":"place of burial","ent_b":"Metsakalmistu","rel_bc":"country","ent_c":"Estonia","rel_ac":"country of burial"}
+{"ent_a":"Wanda Landowska","rel_ab":"place of burial","ent_b":"Taverny","rel_bc":"country","ent_c":"France","rel_ac":"country of burial"}
+{"ent_a":"Tito Gobbi","rel_ab":"place of burial","ent_b":"Campo Verano","rel_bc":"country","ent_c":"Italy","rel_ac":"country of burial"}
+{"ent_a":"Ferdinand III, Holy Roman Emperor","rel_ab":"place of burial","ent_b":"Imperial Crypt","rel_bc":"country","ent_c":"Austria","rel_ac":"country of burial"}
+{"ent_a":"V\u00edt\u011bzslav Nezval","rel_ab":"place of burial","ent_b":"Vy\u0161ehrad Cemetery","rel_bc":"country","ent_c":"Czech Republic","rel_ac":"country of burial"}
+{"ent_a":"Mogens Fog","rel_ab":"place of burial","ent_b":"Ordrup Cemetery","rel_bc":"country","ent_c":"Denmark","rel_ac":"country of burial"}
+{"ent_a":"Ren\u00e9 Edward De Russy","rel_ab":"place of burial","ent_b":"West Point Cemetery","rel_bc":"country","ent_c":"United States","rel_ac":"country of burial"}
+{"ent_a":"Edward Griffin Beckwith","rel_ab":"place of burial","ent_b":"Arlington National Cemetery","rel_bc":"country","ent_c":"United States","rel_ac":"country of burial"}
+{"ent_a":"Godfrey III, Count of Louvain","rel_ab":"place of burial","ent_b":"St. Peter's Church, Leuven","rel_bc":"country","ent_c":"Belgium","rel_ac":"country of burial"}
+{"ent_a":"Kodama Gentar\u014d","rel_ab":"place of burial","ent_b":"Tama Cemetery","rel_bc":"country","ent_c":"Japan","rel_ac":"country of burial"}
+{"ent_a":"Bobby Guanzon","rel_ab":"place of burial","ent_b":"Manila North Cemetery","rel_bc":"country","ent_c":"Philippines","rel_ac":"country of burial"}
+{"ent_a":"Joseph Dalton Hooker","rel_ab":"place of burial","ent_b":"St Anne's Church, Kew","rel_bc":"country","ent_c":"United Kingdom","rel_ac":"country of burial"}
+{"ent_a":"Robert Plunket Maclay","rel_ab":"place of burial","ent_b":"Fordoche, Louisiana","rel_bc":"country","ent_c":"United States","rel_ac":"country of burial"}
+{"ent_a":"Frans Reinhold Kjellman","rel_ab":"place of burial","ent_b":"Uppsala old cemetery","rel_bc":"country","ent_c":"Sweden","rel_ac":"country of burial"}
+{"ent_a":"Marie-Hortense Fiquet","rel_ab":"place of burial","ent_b":"P\u00e8re Lachaise Cemetery","rel_bc":"country","ent_c":"France","rel_ac":"country of burial"}
+{"ent_a":"William David Sanders","rel_ab":"place of burial","ent_b":"Colorado","rel_bc":"country","ent_c":"United States","rel_ac":"country of burial"}
+{"ent_a":"Julia Domna","rel_ab":"place of burial","ent_b":"Castel Sant'Angelo","rel_bc":"country","ent_c":"Italy","rel_ac":"country of burial"}
+{"ent_a":"Efterskole","rel_ab":"subclass of","ent_b":"Independent school","rel_bc":"subclass of","ent_c":"Private school","rel_ac":"subclass of"}
+{"ent_a":"Self-adhesive stamp","rel_ab":"subclass of","ent_b":"Postage stamp","rel_bc":"subclass of","ent_c":"Franking","rel_ac":"subclass of"}
+{"ent_a":"Tektitek language","rel_ab":"subclass of","ent_b":"Mamean languages","rel_bc":"subclass of","ent_c":"Mayan languages","rel_ac":"subclass of"}
+{"ent_a":"Dhantal","rel_ab":"subclass of","ent_b":"Idiophone","rel_bc":"subclass of","ent_c":"Musical instrument","rel_ac":"subclass of"}
+{"ent_a":"Dhoni (fishing vessel)","rel_ab":"subclass of","ent_b":"Sailboat","rel_bc":"subclass of","ent_c":"Wind-powered vehicle","rel_ac":"subclass of"}
+{"ent_a":"Toyota Starlet","rel_ab":"subclass of","ent_b":"Subcompact car","rel_bc":"subclass of","ent_c":"Car","rel_ac":"subclass of"}
+{"ent_a":"Indian reductions in the Andes","rel_ab":"subclass of","ent_b":"Reductions","rel_bc":"subclass of","ent_c":"Human settlement","rel_ac":"subclass of"}
+{"ent_a":"Immigration to Brazil","rel_ab":"subclass of","ent_b":"Immigration","rel_bc":"subclass of","ent_c":"Human migration","rel_ac":"subclass of"}
+{"ent_a":"First Lady of Tajikistan","rel_ab":"subclass of","ent_b":"First lady","rel_bc":"subclass of","ent_c":"Woman","rel_ac":"subclass of"}
+{"ent_a":"D-brane","rel_ab":"subclass of","ent_b":"Brane","rel_bc":"subclass of","ent_c":"Physical object","rel_ac":"subclass of"}
+{"ent_a":"Fender Precision Bass","rel_ab":"subclass of","ent_b":"Bass guitar","rel_bc":"subclass of","ent_c":"Bass (instrument)","rel_ac":"subclass of"}
+{"ent_a":"Environmental data","rel_ab":"subclass of","ent_b":"Data","rel_bc":"subclass of","ent_c":"Information","rel_ac":"subclass of"}
+{"ent_a":"Nitrogen-10","rel_ab":"subclass of","ent_b":"Nitrogen","rel_bc":"subclass of","ent_c":"Nonmetal","rel_ac":"subclass of"}
+{"ent_a":"Chloracne","rel_ab":"subclass of","ent_b":"Halogen acne","rel_bc":"subclass of","ent_c":"Halogenoderma","rel_ac":"subclass of"}
+{"ent_a":"Ribera del Jiloca","rel_ab":"subclass of","ent_b":"Spanish wine","rel_bc":"subclass of","ent_c":"Wine","rel_ac":"subclass of"}
+{"ent_a":"Canonical link element","rel_ab":"subclass of","ent_b":"Hyperlink","rel_bc":"subclass of","ent_c":"Reference","rel_ac":"subclass of"}
+{"ent_a":"Ulnar dimelia","rel_ab":"subclass of","ent_b":"Polymelia","rel_bc":"subclass of","ent_c":"Dysmelia","rel_ac":"subclass of"}
+{"ent_a":"Bishop of Huntingdon","rel_ab":"subclass of","ent_b":"Suffragan bishop","rel_bc":"subclass of","ent_c":"Bishop","rel_ac":"subclass of"}
+{"ent_a":"Point process","rel_ab":"subclass of","ent_b":"Stochastic process","rel_bc":"subclass of","ent_c":"Mathematical object","rel_ac":"subclass of"}
+{"ent_a":"Tobin tax","rel_ab":"subclass of","ent_b":"Currency transaction tax","rel_bc":"subclass of","ent_c":"Financial transaction tax","rel_ac":"subclass of"}
+{"ent_a":"Cyclic pyranopterin monophosphate synthase","rel_ab":"subclass of","ent_b":"Lyase","rel_bc":"subclass of","ent_c":"Enzyme","rel_ac":"subclass of"}
+{"ent_a":"Asian Open Figure Skating Classic","rel_ab":"subclass of","ent_b":"Figure skating competition","rel_bc":"subclass of","ent_c":"Sports competition","rel_ac":"subclass of"}
+{"ent_a":"Italian diaspora","rel_ab":"subclass of","ent_b":"Italians","rel_bc":"subclass of","ent_c":"Romance peoples","rel_ac":"subclass of"}
+{"ent_a":"Adenomyoma","rel_ab":"subclass of","ent_b":"Carcinosarcoma","rel_bc":"subclass of","ent_c":"Malignant mixed tumor","rel_ac":"subclass of"}
+{"ent_a":"Grizzly Bear (dance)","rel_ab":"subclass of","ent_b":"Novelty and fad dances","rel_bc":"subclass of","ent_c":"Dance","rel_ac":"subclass of"}
+{"ent_a":"BGP hijacking","rel_ab":"subclass of","ent_b":"Cyberattack","rel_bc":"subclass of","ent_c":"Threat (computer)","rel_ac":"subclass of"}
+{"ent_a":"Afghan Premier League","rel_ab":"subclass of","ent_b":"National championship","rel_bc":"subclass of","ent_c":"Championship","rel_ac":"subclass of"}
+{"ent_a":"KiHa 281 series","rel_ab":"subclass of","ent_b":"Diesel multiple unit","rel_bc":"subclass of","ent_c":"Multiple unit","rel_ac":"subclass of"}
+{"ent_a":"Aminodeoxychorismate synthase","rel_ab":"subclass of","ent_b":"Transaminase","rel_bc":"subclass of","ent_c":"Transferase","rel_ac":"subclass of"}
+{"ent_a":"Afro-Dominicans","rel_ab":"subclass of","ent_b":"People of the Dominican Republic","rel_bc":"subclass of","ent_c":"Caribbean people","rel_ac":"subclass of"}
+{"ent_a":"Bromley-by-Bow tube station","rel_ab":"part of","ent_b":"London Underground","rel_bc":"part of","ent_c":"Transport for London","rel_ac":"part of"}
+{"ent_a":"Portal:Current events\/2014 July 24","rel_ab":"part of","ent_b":"Portal:Current events\/July 2014","rel_bc":"part of","ent_c":"2014","rel_ac":"part of"}
+{"ent_a":"Equestrian at the 1948 Summer Olympics \u2013 Team dressage","rel_ab":"part of","ent_b":"Equestrian at the 1948 Summer Olympics","rel_bc":"part of","ent_c":"1948 Summer Olympics","rel_ac":"part of"}
+{"ent_a":"Portal:Current events\/2016 January 25","rel_ab":"part of","ent_b":"Portal:Current events\/January 2016","rel_bc":"part of","ent_c":"2016","rel_ac":"part of"}
+{"ent_a":"387","rel_ab":"part of","ent_b":"380s","rel_bc":"part of","ent_c":"4th century","rel_ac":"part of"}
+{"ent_a":"Second Epistle of John","rel_ab":"part of","ent_b":"New Testament","rel_bc":"part of","ent_c":"Bible","rel_ac":"part of"}
+{"ent_a":"Cathedral chapter","rel_ab":"part of","ent_b":"Diocese","rel_bc":"part of","ent_c":"Ecclesiastical province","rel_ac":"part of"}
+{"ent_a":"Tureia","rel_ab":"part of","ent_b":"Tuamotus","rel_bc":"part of","ent_c":"Polynesia","rel_ac":"part of"}
+{"ent_a":"Tur (Bosnian-Slavic mythology)","rel_ab":"part of","ent_b":"Slavic mythology","rel_bc":"part of","ent_c":"European folklore","rel_ac":"part of"}
+{"ent_a":"Athletics at the 1975 Pan American Games \u2013 Men's decathlon","rel_ab":"part of","ent_b":"Athletics at the 1975 Pan American Games","rel_bc":"part of","ent_c":"1975 Pan American Games","rel_ac":"part of"}
+{"ent_a":"December 1928","rel_ab":"part of","ent_b":"1928","rel_bc":"part of","ent_c":"1920s","rel_ac":"part of"}
+{"ent_a":"Delaware Bay","rel_ab":"part of","ent_b":"Atlantic Ocean","rel_bc":"part of","ent_c":"World Ocean","rel_ac":"part of"}
+{"ent_a":"Operation Summer '95","rel_ab":"part of","ent_b":"Bosnian War","rel_bc":"part of","ent_c":"Yugoslav Wars","rel_ac":"part of"}
+{"ent_a":"Athletics at the 2010 Commonwealth Games \u2013 Men's 3000 metres steeplechase","rel_ab":"part of","ent_b":"Athletics at the 2010 Commonwealth Games","rel_bc":"part of","ent_c":"2010 Commonwealth Games","rel_ac":"part of"}
+{"ent_a":"Swimming at the 1984 Summer Olympics \u2013 Women's 100 metre backstroke","rel_ab":"part of","ent_b":"Swimming at the 1984 Summer Olympics","rel_bc":"part of","ent_c":"1984 Summer Olympics","rel_ac":"part of"}
+{"ent_a":"Rowing at the 2004 Summer Olympics \u2013 Men's coxless four","rel_ab":"part of","ent_b":"Rowing at the 2004 Summer Olympics","rel_bc":"part of","ent_c":"2004 Summer Olympics","rel_ac":"part of"}
+{"ent_a":"740s","rel_ab":"part of","ent_b":"8th century","rel_bc":"part of","ent_c":"1st millennium","rel_ac":"part of"}
+{"ent_a":"Athletics at the 1979 Pan American Games \u2013 Men's 400 metres","rel_ab":"part of","ent_b":"Athletics at the 1979 Pan American Games","rel_bc":"part of","ent_c":"1979 Pan American Games","rel_ac":"part of"}
+{"ent_a":"1904","rel_ab":"part of","ent_b":"1900s (decade)","rel_bc":"part of","ent_c":"20th century","rel_ac":"part of"}
+{"ent_a":"Athletics at the 1999 All-Africa Games \u2013 Men's pole vault","rel_ab":"part of","ent_b":"Athletics at the 1999 All-Africa Games","rel_bc":"part of","ent_c":"1999 All-Africa Games","rel_ac":"part of"}
+{"ent_a":"Dream of the Red Chamber","rel_ab":"part of","ent_b":"Classic Chinese Novels","rel_bc":"part of","ent_c":"Chinese literature","rel_ac":"part of"}
+{"ent_a":"Battle of Firebase Anaconda","rel_ab":"part of","ent_b":"War in Afghanistan (2001\u20132021)","rel_bc":"part of","ent_c":"War on terror","rel_ac":"part of"}
+{"ent_a":"Old Europe (archaeology)","rel_ab":"part of","ent_b":"Chalcolithic","rel_bc":"part of","ent_c":"Bronze Age","rel_ac":"part of"}
+{"ent_a":"2019 Southeast Asian Games cauldron","rel_ab":"part of","ent_b":"New Clark City Athletics Stadium","rel_bc":"part of","ent_c":"New Clark City Sports Hub","rel_ac":"part of"}
+{"ent_a":"1311","rel_ab":"part of","ent_b":"1310s","rel_bc":"part of","ent_c":"14th century","rel_ac":"part of"}
+{"ent_a":"Boxing at the 2015 Pan American Games \u2013 Men's Light heavyweight","rel_ab":"part of","ent_b":"Boxing at the 2015 Pan American Games","rel_bc":"part of","ent_c":"2015 Pan American Games","rel_ac":"part of"}
+{"ent_a":"Population history of Indigenous peoples of the Americas","rel_ab":"part of","ent_b":"History of the Americas","rel_bc":"part of","ent_c":"History of Earth","rel_ac":"part of"}
+{"ent_a":"Portal:Current events\/2012 June 3","rel_ab":"part of","ent_b":"Portal:Current events\/June 2012","rel_bc":"part of","ent_c":"2012","rel_ac":"part of"}
+{"ent_a":"Middle Yanggao Road station","rel_ab":"part of","ent_b":"Shanghai Metro","rel_bc":"part of","ent_c":"Shanghai Rail Transit","rel_ac":"part of"}
+{"ent_a":"Matthew 2:8","rel_ab":"part of","ent_b":"Matthew 2","rel_bc":"part of","ent_c":"Gospel of Matthew","rel_ac":"part of"}
